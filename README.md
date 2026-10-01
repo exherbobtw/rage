@@ -1,3 +1,4 @@
+binary: ~/rage/rage
 simple text editor
 
 build:
